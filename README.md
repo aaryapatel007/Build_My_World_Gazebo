@@ -1,5 +1,6 @@
 # Build_My_World_ROS
 
+<img src="img/my_world.png" >
 Project Aim:
 
 1. To build a single floor wall structure with models and robots in Gazebo.
