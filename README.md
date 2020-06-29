@@ -1,4 +1,4 @@
-# Build_My_World_ROS
+# Build_My_World_Gazebo
 
 <img src="img/my_world.png" >
 
