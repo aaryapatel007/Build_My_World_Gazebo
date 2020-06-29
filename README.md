@@ -37,3 +37,7 @@
    `$ cd ~/Build_My_World/world`
 
    `$ gazebo my_world.world`
+   
+## License
+
+This repository is licensed under the terms of the MIT license.
